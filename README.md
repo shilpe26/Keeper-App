@@ -1,3 +1,3 @@
 # Keeper-App
-A keeper App simlar to Google Keep Notes 
+A keeper App similar to Google Keep Notes 
 
